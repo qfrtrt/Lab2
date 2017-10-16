@@ -1,0 +1,15 @@
+2017-10-09 16:32:21 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLException: Table "AUTHOR" not found; SQL statement:
+select count(*) as y0_ from author this_ limit ? [42102-196]
+2017-10-09 16:32:21 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLException: Table "AUTHOR" not found; SQL statement:
+select count(*) as y0_ from author this_ limit ? [42102-196]
+2017-10-09 16:32:32 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLException: Table "BOOK" not found; SQL statement:
+select count(*) as y0_ from book this_ limit ? [42102-196]
+2017-10-09 16:38:20 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLException: Table "AUTHOR" not found; SQL statement:
+select count(*) as y0_ from author this_ limit ? [42102-196]
+2017-10-09 18:27:20 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLException: Table "BOOK" not found; SQL statement:
+select count(*) as y0_ from book this_ limit ? [42102-196]
